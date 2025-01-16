@@ -1,0 +1,10 @@
+ These levels often map to terms like:
+
+High: Critical features, urgent bug fixes, or essential functionalities impacting core system operation. 
+These must be addressed immediately.
+
+Medium: Important features, minor bugs, or improvements that enhance user experience but aren't critical to system functionality. 
+These should be addressed within a reasonable timeframe.
+
+Low: Features that are nice-to-haves, minor cosmetic changes, or improvements that can be postponed without significant impact. 
+These are usually addressed after higher-priority tasks.
